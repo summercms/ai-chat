@@ -12,7 +12,7 @@ keywords = ["chatgpt", "ai", "gpt", "repl"]
 
 [dependencies]
 anyhow = "1.0.69"
-bytes = "1.4.0"
+bytes = "1.11.1"
 clap = { version = "4.1.8", features = ["derive", "string"] }
 dirs = "4.0.0"
 eventsource-stream = "0.2.3"
